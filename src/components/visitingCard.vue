@@ -1,5 +1,11 @@
 <template>
-  <v-card elevation="5" class="ml-2 mb-2" max-width="350" height="192px">
+  <v-card
+    elevation="5"
+    class="ml-2 mb-2"
+    max-width="350"
+    height="192px"
+    min-width="200"
+  >
     <div class="d-flex flex-no-wrap justify-space-between">
       <div>
         <v-card-title class="text-h5" v-text="name"></v-card-title>

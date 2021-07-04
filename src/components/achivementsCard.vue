@@ -1,5 +1,5 @@
 <template>
-  <v-card max-width="350" elevation="5" class="ml-2 mb-2">
+  <v-card max-width="350" min-width="200" elevation="5" class="ml-2 mb-2">
     <v-responsive>
       <v-card-title>
         <!-- <v-icon large left> mdi-twitter </v-icon> -->

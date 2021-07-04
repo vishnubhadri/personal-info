@@ -4,13 +4,15 @@
     dense
     outlined
     @click="openFile()"
-    class="text-center"
-    height="100"
+    class="text-center mb-2"
+    height="95"
     width="200"
   >
     <v-icon>{{ fileIcon }}</v-icon>
     <v-card-text>{{ file.name }}</v-card-text>
-    <v-card-text class="font-weight-light">{{ file.AdditionalInfo }}</v-card-text>
+    <v-card-text class="font-weight-light">{{
+      file.AdditionalInfo
+    }}</v-card-text>
   </v-card>
 </template>
 
@@ -45,8 +47,6 @@ export default {
         case "ppt":
         case "pptx":
           return "mdi-file-powerpoint-outline";
-        case "html":
-          return "mdi-file-link-outline";
         case "mp3":
         case "wav":
         case "flac":
@@ -68,7 +68,7 @@ export default {
         case "gif":
           return "mdi-file-image-outline";
         default:
-          return "mdi-file-outline";
+          return "mdi-file-link-outline";
       }
     },
   },

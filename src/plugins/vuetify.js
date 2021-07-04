@@ -5,7 +5,12 @@ Vue.use(Vuetify);
 
 export default new Vuetify({
     theme: {
-        dark: true,
+        options: {
+            themeCache: {
+                get: key => localStorage.getItem(key),
+                set: (key, value) => localStorage.setItem(key, value),
+            },
+        },
         themes: {
             light: {
                 college: "#1d4277",

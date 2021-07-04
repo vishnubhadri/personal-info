@@ -1,5 +1,5 @@
 <template>
-  <v-card elevation="5" class="ml-2 mb-2" max-width="350">
+  <v-card elevation="5" class="ml-2 mb-2" max-width="350" min-width="200">
     <v-responsive>
       <v-card-text>
         <div class="text-end font-weight-light text--secondary">
@@ -18,6 +18,11 @@
       <v-card-actions>
         <v-btn text color="primary accent-4" @click="show = !show">
           Projects
+        </v-btn>
+        <v-spacer></v-spacer>
+
+        <v-btn icon @click="show = !show">
+          <v-icon>{{ show ? "mdi-chevron-up" : "mdi-chevron-down" }}</v-icon>
         </v-btn>
       </v-card-actions>
 

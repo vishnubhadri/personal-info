@@ -1,0 +1,178 @@
+{
+    "name": "Vishnuraj P S",
+    "headline": "Software Engineer (Not limited to Technologies and don't want to be) | Problem Solver | Mentor | Learner |",
+    "desigination": "Associate Consultant",
+    "company": "Intellect Design Arena",
+    "phone": "+91 8015330617",
+    "hotmail": "vishnubhadri@hotmail.com",
+    "gmail": "vishnubhadrii@gmail.com",
+    "github": "https://github.com/vishnubhadri",
+    "linkedin": "https://www.linkedin.com/in/vishnu-raj-sivakumar/",
+    "experiences": [
+        {
+            "grade": "Software Engineer",
+            "company": "GoDB Tech Pvt Ltd",
+            "url": "https://in.go-db.com/",
+            "location": "Chennai",
+            "from": "05-2018",
+            "to": "04-2021",
+            "description": "Working as Front-End developer",
+            "projects": [
+                {
+                    "projectName": "Event Manager",
+                    "projectDesc": "Scheduling the meetings between the companies and gathering the information of the people who are traveling from one place to another and their accommodation details. Worked as Full Stack Developer (JavaScript, jQuery, and Java Servlet)"
+                },
+                {
+                    "projectName": "TAGIC E-Marine",
+                    "projectDesc": "This is a Marine insurance project where the insured will get the quotation, proposal, payment, policy, Endorsement, and Renewal with details, log, statement, and report for each flow. Primarily Worked as Back End Developer (Node.js) and Guided front-end (Angular (V9))."
+                },
+                {
+                    "projectName": "TAGIC Non-Rater",
+                    "projectDesc": "Non-Rater is basically Quote, NSTP, Proposal, Payment, and Policy flow insurance project with special features like UW referral, UW Escalation Matrix. Working as Full Stack Developer (Angular (V9), Node.js, and java)."
+                }
+            ]
+        },
+        {
+            "grade": "Associate Consultant",
+            "company": "Intellect Design Arena",
+            "url": "https://www.intellectdesign.com/",
+            "location": "Chennai",
+            "from": "04-2021",
+            "description": "Working as Front-End developer",
+            "projects": [
+                {
+                    "projectName": "IDX (Intelligent Data Extraction)",
+                    "projectDesc": "IDX is an AI platform that extracts information, Validation, and Data Enrichment from unstructured (pdf, image), structured (excel), and semi-structured (Forms) data which Embedded with deep learning models, IDX accurately predicts and extracts data across various document types with an accuracy of >96% within minutes versus hours and days."
+                }
+            ]
+        }
+    ],
+    "skills": "Skilled in Multiple Technologies and Languages.",
+    "languages": {
+        "JavaScript": 4,
+        "Java": 3.5,
+        "Vue": 4,
+        "Node.js": 3,
+        "jQuery": 3.5,
+        "TypeScript": 4,
+        "Data Structures": 4,
+        "Multithreading": 3,
+        "Design Pattern": 2.5,
+        "Micro frontend": 3,
+        "Web components": 4,
+        "SQL Server": 4,
+        "MySQL": 4,
+        "Git": 5
+    },
+    "education": [
+        {
+            "name": "Ex-SCTian",
+            "college": "Sona College of Technology",
+            "branch": "CSE",
+            "qualification": "B.E",
+            "from": "2015",
+            "to": "2018",
+            "url": "https://www.sonatech.ac.in/"
+        }
+    ],
+    "introduction": "Experienced 3+ years in Software Engineering profession. Passionate on data structures and Mentoring. Skilled in Java, Vue, JavaScript, Node.js, Design Patterns, MS SQL, MySQL, and AJAX. Strong in Logical thinking, problem analysis, Problem-solving, Multithreading and debugging. An engineering professional with a Bachelor of Engineering (B.E.) focused on Computer Science from Sona College of Technology.",
+    "achivements": [
+        {
+            "description": "Design and develop Micro-frontend product."
+        },
+        {
+            "description": "Collaborated with Testing, Business Analyst, Deployment teams, and Client."
+        },
+        {
+            "description": "Shaped 2-4 new graduates for a project."
+        },
+        {
+            "description": "Mentoring Freshers"
+        },
+        {
+            "description": "Technical Mentoring for 7."
+        },
+        {
+            "description": "Proactive Front-End developer."
+        },
+        {
+            "description": "Resolved Development Complexity with Design Pattern."
+        },
+        {
+            "description": "Self-started Back-End Developer. Developed Applications in Java Servlet, J2EE, and Node.js."
+        },
+        {
+            "description": "Achieved Front-End development using Angular (V9), TypeScript, JavaScript (ECMAScript 5), and jQuery."
+        },
+        {
+            "description": "Designed and Written Monolithic services and Multithreading Program in Java Servlet using the MVC pattern and Trained for Microservice."
+        },
+        {
+            "description": "Build an Event Management system and Marine Insurance system."
+        },
+        {
+            "description": "Aware of agile methodology (SDLC)."
+        },
+        {
+            "description": "Excellent Debugging skills."
+        },
+        {
+            "description": "Maintaining a record of the work done and cooperate with other progress of development."
+        },
+        {
+            "description": "Worked as Front-End Developer in Vue.js."
+        },
+        {
+            "description": "Research and convert a Vue module into web component and library which can easily integrated in vanilla JS and other frameworks. "
+        },
+        {
+            "description": "Convert Monolithic application to Micro-Frontend Architect. "
+        },
+        {
+            "description": "Familiar with Vue libraries such as Vuex, Vuetify, and Vue-Router."
+        },
+        {
+            "description": "Knowledge in Rest API and implement oauth2 Login."
+        },
+        {
+            "description": "Working on agile methodology (SDLC)."
+        }
+    ],
+    "files": [
+        {
+            "name": "Vishnuraj_SE_resume",
+            "AdditionalInfo": "Resume",
+            "path": "../assets/profile-pic.jpg"
+        },
+        {
+            "name": "CutShort Certified Vue.js - Basic",
+            "AdditionalInfo": "Certificate - CutShort",
+            "path": "https://cutshort.io/certificate/43677"
+        },
+        {
+            "name": "CutShort Certified React - Basic",
+            "AdditionalInfo": "Certificate - CutShort",
+            "path": "https://cutshort.io/certificate/14771"
+        },
+        {
+            "name": "CutShort Certified NodeJS (Node.js) - Basic",
+            "AdditionalInfo": "Certificate - CutShort",
+            "path": "https://cutshort.io/certificate/12512"
+        },
+        {
+            "name": "CutShort Certified Java - Basic",
+            "AdditionalInfo": "Certificate - CutShort",
+            "path": "https://cutshort.io/certificate/2952"
+        },
+        {
+            "name": "Techgig Javascript Easy",
+            "AdditionalInfo": "Certificate - Techgig",
+            "path": "https://www.techgig.com/skilltest/result/javascript/javascript-easy/dWFISWJIM0xER1RlZEp4bzFDcHVIQT09"
+        },
+        {
+            "name": "Techgig SQL Easy",
+            "AdditionalInfo": "Certificate - Techgig",
+            "path": "https://www.techgig.com/skilltest/result/sql/sql-easy/Zy8yRStvZkZYV3o2ZkVLR3pCbFBnZz09"
+        }
+    ]
+}

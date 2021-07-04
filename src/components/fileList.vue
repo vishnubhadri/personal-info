@@ -1,10 +1,9 @@
 <template>
   <v-card
-    elevation="3"
     dense
     outlined
     @click="openFile()"
-    class="text-center mb-2"
+    class="text-center mb-2 mr-1 ml-1"
     height="95"
     width="200"
   >

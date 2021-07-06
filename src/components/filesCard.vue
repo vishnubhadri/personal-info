@@ -1,5 +1,5 @@
 <template>
-  <v-card max-width="350" elevation="5" class="ml-2 mb-2" min-width="200">
+  <v-card max-width="350" elevation="5" class="ml-2 mb-2 pa-1" min-width="200">
     <v-responsive>
       <v-card-title>Files</v-card-title>
       <v-sheet class="mx-auto" max-width="700">

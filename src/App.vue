@@ -68,11 +68,13 @@ import ExperienceCard from "./components/experienceCard.vue";
 import AchivementsCard from "./components/achivementsCard.vue";
 import FilesCard from "./components/filesCard.vue";
 import ProfileMenu from "./components/profileMenu.vue";
-// import VisitingCard from "./components/visitingCard.vue";
 
+import locals from "./locales/en.json";
+
+// import VisitingCard from "./components/visitingCard.vue";
 export default {
   name: "App",
-  title: "Vish | SE | Dev | ",
+  title: locals.title,
   components: {
     ProfileCard,
     SkillsCard,
